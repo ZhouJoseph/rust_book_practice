@@ -3,6 +3,7 @@ area/
 enumerator/
 restaurant/
 adder/
+shoe_size/
 .DS_Store
 Cargo.lock
 target/
